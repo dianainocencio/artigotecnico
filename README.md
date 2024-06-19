@@ -1,4 +1,3 @@
-**README.md**
 
 # Fundamentos e Práticas da Engenharia de Dados
 
